@@ -1,4 +1,4 @@
 # miscPythonExamplesForInterviews
 
 
-A set of examples asked dirung coding interviews just to practice.
+A set of examples asked during coding interviews just to practice.
